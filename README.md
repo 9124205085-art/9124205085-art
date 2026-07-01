@@ -20,5 +20,4 @@ I'm an Information Technology student passionate about building web apps, chatbo
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/priyadharshini-viswanathan-4a225b331/)]
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/priyadharshini-viswanathan-4a225b331/)
